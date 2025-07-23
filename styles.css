@@ -2086,7 +2086,7 @@ header.scrolled .mobile-menu-btn svg {
 }
 
 .social-link.whatsapp {
-    background: rgba(37, 211, 102, 0.15) !important;
+    background: rgba(37, 211, 102) !important;
     color: #25D366 !important;
     border-color: rgba(37, 211, 102, 0.2);
 }
@@ -2095,11 +2095,11 @@ header.scrolled .mobile-menu-btn svg {
     background: #25D366 !important;
     color: white !important;
     transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(37, 211, 102);
+    box-shadow: 0 8px 20px rgba(37, 211, 102, 0.3);
 }
 
 .social-link.telegram {
-    background: rgba(0, 136, 204, 0.15) !important;
+    background: rgba(0, 136, 204) !important;
     color: #0088cc !important;
     border-color: rgba(0, 136, 204, 0.2);
 }
@@ -2108,7 +2108,7 @@ header.scrolled .mobile-menu-btn svg {
     background: #0088cc !important;
     color: white !important;
     transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(0, 136, 204);
+    box-shadow: 0 8px 20px rgba(0, 136, 204, 0.3);
 }
 
 /* Карточка с формой */
