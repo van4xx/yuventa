@@ -403,8 +403,8 @@ header.scrolled .header-contact-item {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 40px;
-    height: 40px;
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
     transition: var(--transition);
     position: relative;
@@ -435,8 +435,8 @@ header.scrolled .social-link {
 }
 
 .social-link svg {
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
     color: var(--white-color);
     z-index: 1;
     transition: var(--transition);
@@ -2343,11 +2343,11 @@ header.scrolled .social-link {
     }
 }
 
-/* Футер */
+/* Футер - новый дизайн */
 .footer {
-    background-color: var(--secondary-color);
+    background: linear-gradient(135deg, var(--secondary-color) 0%, #1a2f3a 100%);
     color: #fff;
-    padding: 80px 0 30px;
+    padding: 60px 0 30px;
     position: relative;
     overflow: hidden;
 }
@@ -2359,8 +2359,8 @@ header.scrolled .social-link {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="50" cy="50" r="40" fill="none" stroke="%23ffffff" stroke-width="0.5" opacity="0.1"/></svg>') repeat;
-    opacity: 0.05;
+    background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="50" cy="50" r="2" fill="%23FF6B35" opacity="0.1"/></svg>') repeat;
+    opacity: 0.1;
     z-index: 1;
 }
 
@@ -2371,89 +2371,129 @@ header.scrolled .social-link {
 
 .footer-content {
     display: grid;
-    grid-template-columns: 1fr 1.5fr;
-    gap: 60px;
-    margin-bottom: 50px;
-    position: relative;
+    grid-template-columns: 1.5fr 1fr;
+    gap: 50px;
+    margin-bottom: 40px;
 }
 
-.footer-logo-section {
+/* Секция компании */
+.footer-company {
     display: flex;
     flex-direction: column;
+    gap: 25px;
 }
 
-.footer-logo {
+.footer-logo-link {
     display: flex;
     align-items: center;
     gap: 15px;
-    margin-bottom: 20px;
+    text-decoration: none;
+    color: inherit;
+    transition: var(--transition);
 }
 
-.footer-logo h2 {
-    font-size: 2rem;
+.footer-logo-link:hover {
+    transform: translateY(-2px);
+}
+
+.footer-logo-link:hover .logo-icon {
+    transform: rotate(5deg) scale(1.05);
+}
+
+.logo-text {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.company-name {
+    font-size: 1.8rem;
+    font-weight: 800;
     color: #fff;
-    margin: 0;
+    line-height: 1;
 }
 
-.footer-logo span {
+.company-tagline {
+    font-size: 1rem;
     color: var(--primary-color);
+    font-weight: 600;
+    opacity: 0.9;
 }
 
-.footer-logo-section p {
+.footer-description {
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 1.1rem;
+    line-height: 1.7;
+    margin: 0;
+    max-width: 500px;
+}
+
+.footer-social h4 {
     color: #fff;
     font-size: 1.1rem;
-    opacity: 0.8;
-    line-height: 1.6;
-    margin-bottom: 30px;
+    font-weight: 600;
+    margin: 0 0 15px 0;
 }
 
-.footer-social {
+.footer-social .social-links {
     display: flex;
     gap: 15px;
 }
 
 .footer-social .social-link {
-    width: 42px;
-    height: 42px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    gap: 10px;
+    padding: 12px 18px;
+    border-radius: 12px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: var(--transition);
+    border: 2px solid transparent;
     background: rgba(255, 255, 255, 0.1);
-    border-radius: 50%;
-    transition: all 0.3s ease;
-}
-
-.footer-social .social-link:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
-}
-
-.footer-social .social-link.whatsapp:hover {
-    background-color: #25D366;
-}
-
-.footer-social .social-link.telegram:hover {
-    background-color: #0088cc;
-}
-
-.footer-social .social-link svg {
-    width: 20px;
-    height: 20px;
     color: #fff;
 }
 
-.footer-links {
+.footer-social .social-link:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+.footer-social .social-link.whatsapp:hover {
+    background: #25D366;
+    border-color: #25D366;
+}
+
+.footer-social .social-link.telegram:hover {
+    background: #0088cc;
+    border-color: #0088cc;
+}
+
+.footer-social .social-link svg {
+    width: 100%;
+    height: 100%;
+    transition: var(--transition);
+}
+
+.footer-social .social-link:hover svg {
+    transform: scale(1.1);
+}
+
+/* Секция информации */
+.footer-info {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 30px;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
 }
 
 .footer-column h3 {
     color: #fff;
-    font-size: 1.2rem;
-    margin-bottom: 25px;
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 20px;
     position: relative;
-    padding-bottom: 15px;
+    padding-bottom: 12px;
 }
 
 .footer-column h3::after {
@@ -2461,81 +2501,139 @@ header.scrolled .social-link {
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 40px;
+    width: 30px;
     height: 3px;
     background: var(--primary-color);
     border-radius: 2px;
 }
 
-.footer-column ul {
+/* Навигация */
+.footer-nav {
     list-style: none;
     padding: 0;
     margin: 0;
-}
-
-.footer-column ul li {
-    margin-bottom: 15px;
-}
-
-.footer-column ul li a {
-    color: rgba(255, 255, 255, 0.8);
-    text-decoration: none;
-    transition: all 0.3s ease;
-    display: block;
-    padding: 5px 0;
-}
-
-.footer-column ul li a:hover {
-    color: var(--primary-color);
-    transform: translateX(5px);
-}
-
-.contact-list li {
     display: flex;
-    align-items: center;
+    flex-direction: column;
     gap: 12px;
 }
 
-.contact-list svg {
-    width: 18px;
-    height: 18px;
+.footer-nav li a {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: var(--transition);
+    display: block;
+    padding: 5px 0;
+    position: relative;
+}
+
+.footer-nav li a::before {
+    content: '';
+    position: absolute;
+    left: -15px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 0;
+    height: 2px;
+    background: var(--primary-color);
+    transition: var(--transition);
+}
+
+.footer-nav li a:hover {
+    color: var(--primary-color);
+    padding-left: 10px;
+}
+
+.footer-nav li a:hover::before {
+    width: 8px;
+}
+
+/* Контакты */
+.footer-contacts {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.contact-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+    padding: 10px 0;
+    transition: var(--transition);
+}
+
+.contact-item:hover {
+    transform: translateX(5px);
+}
+
+.contact-item svg {
     color: var(--primary-color);
     flex-shrink: 0;
+    margin-top: 2px;
 }
 
-.contact-list p,
-.contact-list a {
-    margin: 0;
-    line-height: 1.5;
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
 }
 
+.contact-label {
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.7);
+    font-weight: 500;
+}
+
+.contact-link {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1rem;
+    transition: var(--transition);
+}
+
+.contact-link:hover {
+    color: var(--primary-color);
+}
+
+.contact-text {
+    color: #fff;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+/* Низ футера */
 .footer-bottom {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 1.5rem;
-    margin-top: 2rem;
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
-    font-size: 0.9rem;
+    padding-top: 30px;
+    margin-top: 30px;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
 }
 
-.copyright {
-    opacity: 0.7;
+.footer-copyright p {
+    margin: 0;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 0.95rem;
 }
 
-.site-map {
+.footer-links {
     display: flex;
-    gap: 1.5rem;
+    gap: 20px;
 }
 
-.site-map a {
+.footer-links a {
     color: rgba(255, 255, 255, 0.7);
     text-decoration: none;
-    font-size: 0.85rem;
-    transition: color 0.3s;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: var(--transition);
 }
 
-.site-map a:hover {
+.footer-links a:hover {
     color: var(--primary-color);
 }
 
@@ -2921,24 +3019,36 @@ header.scrolled .social-link {
     
     .footer-content {
         grid-template-columns: 1fr;
-        gap: 2rem;
+        gap: 40px;
     }
     
-    .footer-links {
+    .footer-info {
         grid-template-columns: 1fr;
-        gap: 2rem;
+        gap: 30px;
+    }
+    
+    .footer-social .social-links {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+    }
+    
+    .footer-social .social-link {
+        width: 100%;
+        justify-content: flex-start;
+        max-width: 200px;
     }
     
     .footer-bottom {
         flex-direction: column;
-        gap: 1rem;
+        gap: 20px;
         text-align: center;
     }
     
-    .site-map {
+    .footer-links {
         flex-wrap: wrap;
         justify-content: center;
-        gap: 1rem;
+        gap: 15px;
     }
 }
 
@@ -3195,21 +3305,94 @@ header.scrolled .social-link {
         height: 40px;
     }
     
-    .footer-content {
-        gap: 1.5rem;
+    .footer {
+        padding: 40px 0 20px;
     }
     
-    .footer-logo-section p {
+    .footer-content {
+        gap: 30px;
+    }
+    
+    .footer-company {
+        gap: 20px;
+    }
+    
+    .footer-logo-link {
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+    
+    .company-name {
+        font-size: 1.5rem;
+    }
+    
+    .company-tagline {
+        font-size: 0.9rem;
+    }
+    
+    .footer-description {
         font-size: 1rem;
+        text-align: center;
+    }
+    
+    .footer-social {
+        text-align: center;
+    }
+    
+    .footer-social .social-links {
+        justify-content: center;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    
+    .footer-social .social-link {
+        padding: 10px 15px;
+        font-size: 0.9rem;
     }
     
     .footer-column h3 {
-        font-size: 1.1rem;
+        font-size: 1.2rem;
         margin-bottom: 15px;
+        text-align: center;
     }
     
-    .contact-list li {
+    .footer-nav {
+        align-items: center;
+    }
+    
+    .footer-nav li a {
+        font-size: 0.95rem;
+        text-align: center;
+        padding: 8px 0;
+    }
+    
+    .footer-contacts {
+        align-items: center;
+    }
+    
+    .contact-item {
+        flex-direction: column;
+        text-align: center;
+        gap: 8px;
+        padding: 8px 0;
+    }
+    
+    .contact-info {
+        align-items: center;
+    }
+    
+    .footer-bottom {
+        padding-top: 20px;
+        margin-top: 20px;
+    }
+    
+    .footer-copyright p {
         font-size: 0.9rem;
+    }
+    
+    .footer-links a {
+        font-size: 0.85rem;
     }
 }
 
