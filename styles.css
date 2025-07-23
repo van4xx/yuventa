@@ -462,23 +462,61 @@ header.scrolled .header-social .social-link {
 /* Мобильное меню */
 .mobile-menu-btn {
     display: none;
-    background: none;
-    border: none;
+    background: rgba(255, 255, 255, 0.1);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
     cursor: pointer;
-    padding: 0.5rem;
-    color: var(--secondary-color);
+    padding: 8px;
+    color: var(--white-color);
     transition: var(--transition);
+    backdrop-filter: blur(10px);
+}
+
+.mobile-menu-btn:hover {
+    background: var(--primary-color);
+    border-color: var(--primary-color);
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(255, 107, 53, 0.3);
 }
 
 .mobile-menu-btn svg {
-    width: 32px;
-    height: 32px;
+    width: 28px;
+    height: 28px;
     transition: var(--transition);
+    color: currentColor;
 }
 
 .mobile-menu-btn:hover svg {
-    color: var(--primary-color);
-    transform: scale(1.1);
+    color: white;
+    transform: rotate(90deg);
+}
+
+/* Анимация для активного состояния кнопки */
+.mobile-menu-btn.active {
+    background: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.mobile-menu-btn.active svg {
+    transform: rotate(90deg);
+    color: white;
+}
+
+/* Стили для мобильной кнопки при прокрутке */
+header.scrolled .mobile-menu-btn {
+    background: rgba(46, 64, 87, 0.1);
+    border-color: rgba(46, 64, 87, 0.2);
+    color: var(--secondary-color);
+}
+
+header.scrolled .mobile-menu-btn:hover {
+    background: var(--primary-color);
+    border-color: var(--primary-color);
+    color: white;
+}
+
+header.scrolled .mobile-menu-btn svg {
+    color: currentColor;
 }
 
 /* Главный баннер */
@@ -2854,16 +2892,18 @@ header.scrolled .header-social .social-link {
         position: fixed;
         top: 80px;
         right: -100%;
-        width: 320px;
+        width: 350px;
         height: calc(100vh - 80px);
-        background-color: var(--white-color);
-        padding: 30px 20px;
-        flex-direction: column-reverse;
+        background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+        padding: 40px 25px;
+        flex-direction: column;
         align-items: flex-start;
-        gap: 25px;
+        gap: 30px;
         transition: right 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
-        box-shadow: -5px 0 15px rgba(0, 0, 0, 0.15);
+        box-shadow: -10px 0 30px rgba(0, 0, 0, 0.2);
         z-index: 1001;
+        border-left: 4px solid var(--primary-color);
+        overflow-y: auto;
     }
 
     .header-content.show {
@@ -2876,30 +2916,127 @@ header.scrolled .header-social .social-link {
 
     .nav-links {
         flex-direction: column;
-        align-items: flex-start;
+        align-items: stretch;
         width: 100%;
-        gap: 1rem;
+        gap: 0;
+        order: 1;
     }
     
     .nav-links a {
-        padding: 12px 0;
-        font-size: 1.1rem;
+        padding: 18px 20px;
+        font-size: 1.2rem;
+        font-weight: 600;
         width: 100%;
-        border-bottom: 1px solid var(--gray-color);
+        border-bottom: 1px solid rgba(255, 107, 53, 0.1);
+        color: var(--secondary-color);
+        text-decoration: none;
+        transition: var(--transition);
+        border-radius: 8px;
+        margin-bottom: 5px;
+        position: relative;
+        background: rgba(255, 255, 255, 0.5);
+    }
+    
+    .nav-links a:hover,
+    .nav-links a:active {
+        background: var(--primary-color);
+        color: white;
+        transform: translateX(8px);
+        box-shadow: 0 4px 15px rgba(255, 107, 53, 0.3);
+    }
+    
+    .nav-links a::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: 100%;
+        width: 4px;
+        background: var(--primary-color);
+        transform: scaleY(0);
+        transition: var(--transition);
+    }
+    
+    .nav-links a:hover::before {
+        transform: scaleY(1);
+    }
+    
+    /* Анимация появления пунктов меню */
+    .header-content.show .nav-links a {
+        animation: slideInRight 0.3s ease forwards;
+        opacity: 0;
+        transform: translateX(-20px);
+    }
+    
+    .header-content.show .nav-links a:nth-child(1) { animation-delay: 0.1s; }
+    .header-content.show .nav-links a:nth-child(2) { animation-delay: 0.15s; }
+    .header-content.show .nav-links a:nth-child(3) { animation-delay: 0.2s; }
+    .header-content.show .nav-links a:nth-child(4) { animation-delay: 0.25s; }
+    .header-content.show .nav-links a:nth-child(5) { animation-delay: 0.3s; }
+    .header-content.show .nav-links a:nth-child(6) { animation-delay: 0.35s; }
+    
+    @keyframes slideInRight {
+        to {
+            opacity: 1;
+            transform: translateX(0);
+        }
     }
 
     .header-contacts {
         flex-direction: column;
         align-items: flex-start;
         width: 100%;
-        padding-top: 20px;
+        padding: 25px 20px;
         border-top: 2px solid var(--primary-color);
+        border-radius: 12px;
+        background: rgba(255, 107, 53, 0.05);
+        gap: 20px;
+        order: 2;
+    }
+    
+    .header-contacts .contact-phone {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: var(--secondary-color);
+        text-decoration: none;
+        padding: 10px 0;
+        width: 100%;
+    }
+    
+    .header-contacts .contact-phone:hover {
+        color: var(--primary-color);
+        transform: translateX(5px);
+    }
+    
+    .header-contacts .contact-phone svg {
+        color: var(--primary-color);
+        transition: var(--transition);
+    }
+    
+    .header-contacts .contact-phone:hover svg {
+        transform: scale(1.1);
+    }
+    
+    .header-social {
+        order: 3;
+        width: 100%;
+        justify-content: flex-start;
         gap: 15px;
+        padding-top: 15px;
+    }
+    
+    .header-social .social-link {
+        width: 45px;
+        height: 45px;
     }
 
     .mobile-menu-btn {
         display: block;
         z-index: 1002;
+        position: relative;
     }
     
     .stats-grid {
@@ -2978,6 +3115,26 @@ header.scrolled .header-social .social-link {
     
     .about-feature {
         padding: 1.5rem;
+    }
+    
+    /* Улучшения мобильного меню для 768px */
+    .header-content {
+        width: 100%;
+        right: -100%;
+        top: 70px;
+        height: calc(100vh - 70px);
+        padding: 30px 20px;
+        gap: 25px;
+    }
+    
+    .nav-links a {
+        font-size: 1.1rem;
+        padding: 16px 18px;
+    }
+    
+    .header-contacts {
+        padding: 20px 15px;
+        gap: 15px;
     }
     
     .products-filter {
@@ -3229,6 +3386,27 @@ header.scrolled .header-social .social-link {
     
     .product-card {
         padding: 20px;
+    }
+    
+    /* Оптимизация мобильного меню для маленьких экранов */
+    .header-content {
+        width: 100%;
+        padding: 25px 15px;
+        gap: 20px;
+    }
+    
+    .nav-links a {
+        font-size: 1rem;
+        padding: 14px 15px;
+    }
+    
+    .header-contacts {
+        padding: 18px 12px;
+    }
+    
+    .mobile-menu-btn svg {
+        width: 28px;
+        height: 28px;
     }
     
     .sand-marks li {
