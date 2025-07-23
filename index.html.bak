@@ -1,0 +1,1476 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ООО Ювента - Поставки кварцевого песка высокой чистоты | Промышленный песок</title>
+    <meta name="description" content="ООО Ювента - производитель и поставщик кварцевого песка высокой чистоты. Промышленный песок различных фракций для строительства и производства. Гарантируем стабильное качество и точные сроки поставок.">
+    <meta name="keywords" content="кварцевый песок, промышленный песок, поставки песка, строительный песок, формовочный песок, фильтрационный песок, фракции песка, ООО Ювента, доставка песка, высококачественный песок">
+    <meta name="author" content="ООО Ювента">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://yuventa.online/">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://yuventa.online/">
+    <meta property="og:title" content="ООО Ювента - Поставки кварцевого песка высокой чистоты">
+    <meta property="og:description" content="Производство и поставки промышленного кварцевого песка различных фракций для строительства и производства. Гарантируем стабильное качество и точные сроки.">
+    <meta property="og:image" content="https://yuventa.online/images/og-image.jpg">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://yuventa.online/">
+    <meta property="twitter:title" content="ООО Ювента - Поставки кварцевого песка высокой чистоты">
+    <meta property="twitter:description" content="Производство и поставки промышленного кварцевого песка различных фракций для строительства и производства.">
+    <meta property="twitter:image" content="https://yuventa.online/images/og-image.jpg">
+    
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
+    
+    <!-- Структурированные данные Schema.org для организации -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "ООО Ювента",
+      "url": "https://yuventa.online/",
+      "logo": "https://yuventa.online/images/logo.svg",
+      "description": "Производитель и поставщик высококачественного кварцевого песка различных фракций для промышленности и строительства.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ульяновск",
+        "addressRegion": "Ульяновская область",
+        "addressCountry": "RU"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+79603616850",
+        "email": "yuventaas@mail.ru",
+        "contactType": "Отдел продаж"
+      },
+      "sameAs": [
+        "https://wa.me/79603616850",
+        "https://t.me/79603616850"
+      ]
+    }
+    </script>
+    
+    <!-- Структурированные данные Schema.org для продукта -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Кварцевый песок высокой чистоты",
+      "description": "Промышленный кварцевый песок различных фракций с высоким содержанием SiO2 для строительства, стекольной промышленности, фильтрации и других применений.",
+      "brand": {
+        "@type": "Brand",
+        "name": "ООО Ювента"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "RUB",
+        "lowPrice": "1000",
+        "highPrice": "10000",
+        "offerCount": "5",
+        "availability": "https://schema.org/InStock"
+      }
+    }
+    </script>
+</head>
+<body>
+    <header id="header">
+        <div class="container">
+            <nav class="header-nav">
+                <div class="logo">
+                    <a href="#" class="logo-link">
+                        <svg class="logo-icon" width="40" height="40" viewBox="0 0 40 40" fill="none">
+                            <path d="M20 0L37.3205 10V30L20 40L2.67949 30V10L20 0Z" fill="var(--primary-color)"/>
+                            <path d="M20 5L32.3205 12V26L20 33L7.67949 26V12L20 5Z" fill="white"/>
+                        </svg>
+                        <span class="logo-text">ООО <span>Ювента</span></span>
+                    </a>
+                </div>
+                
+                <div class="header-content">
+                    <div class="header-contacts">
+                        <a href="tel:+79603616850" class="header-contact-item">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                            8-960-361-68-50
+                        </a>
+                        <div class="header-social">
+                            <a href="https://wa.me/79603616850" class="social-link whatsapp" target="_blank">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                </svg>
+                            </a>
+                            <a href="https://t.me/79603616850" class="social-link telegram" target="_blank">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M22 2L11 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                    <path d="M22 2L15 22L11 13L2 9L22 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <div class="nav-links">
+                        <a href="#about">О продукте</a>
+                        <a href="#products">Продукция</a>
+                        <a href="#process">Производство</a>
+                        <a href="#advantages">Преимущества</a>
+                        <a href="#applications">Применение</a>
+                        <a href="#delivery">Доставка</a>
+                        <a href="#contact" class="nav-contact-btn">Связаться с нами</a>
+                    </div>
+                </div>
+
+                <button class="mobile-menu-btn">
+                    <svg class="menu-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                        <path d="M3 18H21V16H3V18ZM3 13H21V11H3V13ZM3 6V8H21V6H3Z" fill="currentColor"/>
+                    </svg>
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1 data-aos="fade-up">Промышленный кварцевый песок высшего качества</h1>
+            <p data-aos="fade-up" data-aos-delay="100">Мы — ведущий поставщик кварцевого песка с безупречной репутацией. Гарантируем стабильное качество и точные сроки поставок для вашего производства.</p>
+            <div class="hero-buttons" data-aos="fade-up" data-aos-delay="200">
+                <a href="#contact" class="btn btn-primary">Получить предложение</a>
+                <a href="#about" class="btn btn-outline">О продукции</a>
+            </div>
+        </div>
+        <div class="hero-scroll-down" data-aos="fade-up" data-aos-delay="300">
+            <a href="#stats">
+                <span>Узнать больше</span>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M7 13l5 5 5-5"/>
+                    <path d="M7 6l5 5 5-5"/>
+                </svg>
+            </a>
+        </div>
+    </section>
+
+    <section id="stats" class="stats">
+        <div class="container">
+            <div class="stats-grid">
+                <div class="stat-item" data-aos="fade-up">
+                    <div class="stat-number">
+                        <span class="counter">10</span>+
+                    </div>
+                    <div class="stat-label">Лет на рынке</div>
+                </div>
+                <div class="stat-item" data-aos="fade-up" data-aos-delay="100">
+                    <div class="stat-number">
+                        <span class="counter">1000</span>+
+                    </div>
+                    <div class="stat-label">Довольных клиентов</div>
+                </div>
+                <div class="stat-item" data-aos="fade-up" data-aos-delay="200">
+                    <div class="stat-number">
+                        <span class="counter">500000</span>+
+                    </div>
+                    <div class="stat-label">Тонн поставлено</div>
+                </div>
+                <div class="stat-item" data-aos="fade-up" data-aos-delay="300">
+                    <div class="stat-number">
+                        <span class="counter">50</span>+
+                    </div>
+                    <div class="stat-label">Регионов доставки</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="about">
+        <div class="container">
+            <h2 class="section-title" data-aos="fade-up">О нашем продукте</h2>
+            <div class="about-content">
+                <div class="about-image" data-aos="fade-right">
+                    <div class="about-image-container">
+                        <svg class="about-product-svg" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+                            <!-- Background -->
+                            <rect x="0" y="0" width="400" height="300" fill="#f8f9fa" rx="8"/>
+                            
+                            <!-- Sand particles - larger -->
+                            <g class="sand-particles-large">
+                                <circle cx="120" cy="110" r="15" fill="#FFD7B5"/>
+                                <circle cx="160" cy="90" r="18" fill="#FFEAD7"/>
+                                <circle cx="200" cy="140" r="20" fill="#FFD7B5"/>
+                                <circle cx="240" cy="100" r="16" fill="#FFEAD7"/>
+                                <circle cx="180" cy="170" r="22" fill="#FFD7B5"/>
+                                <circle cx="280" cy="150" r="14" fill="#FFEAD7"/>
+                                <circle cx="140" cy="200" r="17" fill="#FFD7B5"/>
+                                <circle cx="220" cy="210" r="19" fill="#FFEAD7"/>
+                                <circle cx="260" cy="180" r="21" fill="#FFD7B5"/>
+                            </g>
+                            
+                            <!-- Sand particles - smaller -->
+                            <g class="sand-particles-small">
+                                <circle cx="110" cy="150" r="8" fill="#FFD7B5" opacity="0.8"/>
+                                <circle cx="150" cy="130" r="6" fill="#FFEAD7" opacity="0.8"/>
+                                <circle cx="190" cy="100" r="7" fill="#FFD7B5" opacity="0.8"/>
+                                <circle cx="230" cy="160" r="5" fill="#FFEAD7" opacity="0.8"/>
+                                <circle cx="270" cy="120" r="9" fill="#FFD7B5" opacity="0.8"/>
+                                <circle cx="130" cy="180" r="7" fill="#FFEAD7" opacity="0.8"/>
+                                <circle cx="170" cy="220" r="8" fill="#FFD7B5" opacity="0.8"/>
+                                <circle cx="210" cy="190" r="6" fill="#FFEAD7" opacity="0.8"/>
+                                <circle cx="250" cy="220" r="7" fill="#FFD7B5" opacity="0.8"/>
+                                <circle cx="290" cy="200" r="5" fill="#FFEAD7" opacity="0.8"/>
+                            </g>
+                            
+                            <!-- SiO2 Molecule Representation -->
+                            <g class="molecule" transform="translate(200, 150)">
+                                <circle cx="0" cy="0" r="12" fill="#FF6B35" opacity="0.9"/> <!-- Silicon -->
+                                <circle cx="-18" cy="-18" r="8" fill="#3A86FF" opacity="0.9"/> <!-- Oxygen -->
+                                <circle cx="18" cy="-18" r="8" fill="#3A86FF" opacity="0.9"/> <!-- Oxygen -->
+                                <line x1="0" y1="0" x2="-18" y2="-18" stroke="#555555" stroke-width="2"/>
+                                <line x1="0" y1="0" x2="18" y2="-18" stroke="#555555" stroke-width="2"/>
+                            </g>
+                            
+                            <!-- Label -->
+                            <text x="200" y="260" font-family="Arial" font-size="16" text-anchor="middle" fill="#2E4057">Кварцевый песок SiO₂</text>
+                            <text x="200" y="285" font-family="Arial" font-size="14" text-anchor="middle" fill="#2E4057" opacity="0.8">Чистота > 99.5%</text>
+                        </svg>
+                    </div>
+                </div>
+                <div class="about-text" data-aos="fade-left">
+                    <div class="about-features">
+                        <div class="about-feature">
+                            <i class="fas fa-gem"></i>
+                            <h3>Высокая чистота</h3>
+                            <p>Содержание SiO2 более 99.5%</p>
+                        </div>
+                        <div class="about-feature">
+                            <i class="fas fa-microscope"></i>
+                            <h3>Точная фракция</h3>
+                            <p>Строгий контроль размера частиц</p>
+                        </div>
+                        <div class="about-feature">
+                            <i class="fas fa-shield-alt"></i>
+                            <h3>Надежность</h3>
+                            <p>Стабильные поставки и качество</p>
+                        </div>
+                    </div>
+                    <p>Кварцевый песок — это натуральный минерал, получаемый путем дробления и обогащения кварцевой породы. Отличается высокой твердостью, химической инертностью и термостойкостью.</p>
+                    <p>Наша компания предлагает кварцевый песок высочайшего качества, добываемый на собственных месторождениях и проходящий многоступенчатую очистку и сортировку по фракциям.</p>
+                    <div class="about-cta">
+                        <a href="#contact" class="btn btn-primary">Заказать образцы</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="products" class="products">
+        <div class="container">
+            <h2 class="section-title">Виды песка</h2>
+            <div class="products-filter">
+                <button class="filter-btn active" data-filter="all">Все</button>
+                <button class="filter-btn" data-filter="kvarts">Кварцевый</button>
+                <button class="filter-btn" data-filter="form">Формовочный</button>
+                <button class="filter-btn" data-filter="frak">Фракционный</button>
+            </div>
+
+            <div class="product-types">
+                <div class="product-type active" id="kvarts-type">
+                    <h3>Марки кварцевого песка</h3>
+                    <ul class="sand-marks">
+                        <li>ОВС-015-1</li>
+                        <li>ОВС-020-1</li>
+                        <li>ВС-030-1</li>
+                        <li>ВС-040-1</li>
+                        <li>ВС-050-1</li>
+                        <li>С-070-1</li>
+                        <li>Б-100-1</li>
+                        <li>ПБ-150-1</li>
+                    </ul>
+                </div>
+                <div class="product-type" id="form-type">
+                    <h3>Марки формовочного песка</h3>
+                    <ul class="sand-marks">
+                        <li>1-3К101-3-016</li>
+                        <li>1-3К1-3О1-3-025</li>
+                        <li>1К101-0303</li>
+                    </ul>
+                </div>
+                <div class="product-type" id="frak-type">
+                    <h3>Фракционный песок</h3>
+                    <ul class="sand-marks">
+                        <li>0,2-0,5</li>
+                        <li>0,4-0,8</li>
+                        <li>0,8-1,6</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="packaging-info">
+                <h3>Виды отгрузки</h3>
+                <p>ООО Ювента готово отгружать продукцию как в таре с применением вагонного вкладыша, так и навалом, в зависимости от потребностей клиента.</p>
+            </div>
+
+            <div class="product-cards">
+                <div class="product-card" data-category="kvarts">
+                    <span class="product-badge">Популярный</span>
+                    <div class="product-img">
+                        <svg class="product-svg" viewBox="0 0 200 150" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="100" cy="75" r="60" fill="#F9F9F9" stroke="#FFB563" stroke-width="1"/>
+                            <path d="M70 45 L130 105" stroke="#FF6B35" stroke-width="0.5" stroke-dasharray="2,2"/>
+                            <path d="M70 105 L130 45" stroke="#FF6B35" stroke-width="0.5" stroke-dasharray="2,2"/>
+                            <circle cx="100" cy="75" r="40" fill="#FFEAD7"/>
+                            <circle cx="100" cy="75" r="30" fill="#FFD7B5"/>
+                            <text x="100" y="80" font-size="10" text-anchor="middle" fill="#2E4057">ОВС-015-1</text>
+                        </svg>
+                    </div>
+                    <div class="product-info">
+                        <h3>Кварцевый песок</h3>
+                        <p>Высококачественный кварцевый песок ОВС-015-1 для строительных работ, фильтрации воды и производства стекла.</p>
+                        <div class="product-specs">
+                            <div class="spec">
+                                <i class="fas fa-ruler"></i>
+                                <span>0.1-0.3 мм</span>
+                            </div>
+                            <div class="spec">
+                                <i class="fas fa-tint"></i>
+                                <span>SiO2 > 99.5%</span>
+                            </div>
+                            <div class="spec">
+                                <i class="fas fa-cubes"></i>
+                                <span>Фракция: мелкая</span>
+                            </div>
+                            <div class="spec">
+                                <i class="fas fa-truck"></i>
+                                <span>От 25 кг</span>
+                            </div>
+                        </div>
+                        <div class="product-actions">
+                            <a href="#order" class="btn btn-primary">Заказать</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card" data-category="form">
+                    <div class="product-img">
+                        <svg class="product-svg" viewBox="0 0 200 150" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="100" cy="75" r="60" fill="#F9F9F9" stroke="#FFB563" stroke-width="1"/>
+                            <rect x="70" y="45" width="60" height="60" fill="#FFEAD7" rx="5"/>
+                            <rect x="80" y="55" width="40" height="40" fill="#FFD7B5" rx="3"/>
+                            <text x="100" y="80" font-size="10" text-anchor="middle" fill="#2E4057">1-3К101-3-016</text>
+                        </svg>
+                    </div>
+                    <div class="product-info">
+                        <h3>Формовочный песок</h3>
+                        <p>Формовочный песок марки 1-3К101-3-016 для литейного производства, обеспечивает высокую точность отливок.</p>
+                        <div class="product-specs">
+                            <div class="spec">
+                                <i class="fas fa-ruler"></i>
+                                <span>0.2-0.4 мм</span>
+                            </div>
+                            <div class="spec">
+                                <i class="fas fa-tint"></i>
+                                <span>SiO2 > 98%</span>
+                            </div>
+                            <div class="spec">
+                                <i class="fas fa-cubes"></i>
+                                <span>Огнеупорность: высокая</span>
+                            </div>
+                            <div class="spec">
+                                <i class="fas fa-truck"></i>
+                                <span>От 50 кг</span>
+                            </div>
+                        </div>
+                        <div class="product-actions">
+                            <a href="#order" class="btn btn-primary">Заказать</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card" data-category="frak">
+                    <span class="product-badge">Новинка</span>
+                    <div class="product-img">
+                        <svg class="product-svg" viewBox="0 0 200 150" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="100" cy="75" r="60" fill="#F9F9F9" stroke="#FFB563" stroke-width="1"/>
+                            <circle cx="80" cy="65" r="15" fill="#FFD7B5"/>
+                            <circle cx="110" cy="60" r="20" fill="#FFEAD7"/>
+                            <circle cx="90" cy="95" r="17" fill="#FFD7B5"/>
+                            <circle cx="120" cy="85" r="22" fill="#FFEAD7"/>
+                            <text x="100" y="80" font-size="10" text-anchor="middle" fill="#2E4057">0,8-1,6</text>
+                        </svg>
+                    </div>
+                    <div class="product-info">
+                        <h3>Фракционный песок</h3>
+                        <p>Фракционный песок 0,8-1,6 мм для фильтров, дренажных систем и ландшафтного дизайна. Высокая стойкость к агрессивным средам.</p>
+                        <div class="product-specs">
+                            <div class="spec">
+                                <i class="fas fa-ruler"></i>
+                                <span>0.8-1.6 мм</span>
+                            </div>
+                            <div class="spec">
+                                <i class="fas fa-tint"></i>
+                                <span>SiO2 > 97%</span>
+                            </div>
+                            <div class="spec">
+                                <i class="fas fa-cubes"></i>
+                                <span>Фракция: крупная</span>
+                            </div>
+                            <div class="spec">
+                                <i class="fas fa-truck"></i>
+                                <span>От 20 кг</span>
+                            </div>
+                        </div>
+                        <div class="product-actions">
+                            <a href="#order" class="btn btn-primary">Заказать</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="process" class="process">
+        <div class="container">
+            <h2 class="section-title" data-aos="fade-up">Процесс производства</h2>
+            <div class="process-timeline">
+                <div class="timeline-item" data-aos="fade-right">
+                    <div class="timeline-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M3 11V15L12 20L21 15V11M3 7L12 12L21 7L12 2L3 7Z" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M12 12V20" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <div class="timeline-content">
+                        <span class="step-number">01</span>
+                        <h3>Добыча сырья</h3>
+                        <p>Добыча кварцевого песка на собственных карьерах с использованием современной техники и соблюдением экологических норм</p>
+                        <ul class="process-features">
+                            <li>Высокое качество сырья</li>
+                            <li>Экологический контроль</li>
+                            <li>Современное оборудование</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="timeline-item" data-aos="fade-left">
+                    <div class="timeline-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M12 3L20 7.5V16.5L12 21L4 16.5V7.5L12 3Z" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M12 12L20 7.5" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M12 12V21" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M12 12L4 7.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <div class="timeline-content">
+                        <span class="step-number">02</span>
+                        <h3>Очистка и обогащение</h3>
+                        <p>Многоступенчатая система очистки от примесей и обогащения для достижения высокой чистоты материала</p>
+                        <ul class="process-features">
+                            <li>Удаление примесей</li>
+                            <li>Промывка и сушка</li>
+                            <li>Магнитная сепарация</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="timeline-item" data-aos="fade-right">
+                    <div class="timeline-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M4 8V4M4 4H8M4 4L9 9" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M20 8V4M20 4H16M20 4L15 9" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M4 16V20M4 20H8M4 20L9 15" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M20 16V20M20 20H16M20 20L15 15" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <div class="timeline-content">
+                        <span class="step-number">03</span>
+                        <h3>Калибровка и сортировка</h3>
+                        <p>Точная калибровка по фракциям с помощью современного оборудования для получения продукта требуемого размера</p>
+                        <ul class="process-features">
+                            <li>Точный размер фракций</li>
+                            <li>Автоматизированная сортировка</li>
+                            <li>Контроль гранулометрии</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="timeline-item" data-aos="fade-left">
+                    <div class="timeline-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M9 12L11 14L15 10" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <div class="timeline-content">
+                        <span class="step-number">04</span>
+                        <h3>Контроль качества</h3>
+                        <p>Тщательный лабораторный контроль каждой партии продукции на соответствие стандартам качества</p>
+                        <ul class="process-features">
+                            <li>Лабораторные испытания</li>
+                            <li>Сертификация продукции</li>
+                            <li>Контроль характеристик</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="timeline-item" data-aos="fade-right">
+                    <div class="timeline-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M21 16V8C21 7.46957 20.7893 6.96086 20.4142 6.58579C20.0391 6.21071 19.5304 6 19 6H5C4.46957 6 3.96086 6.21071 3.58579 6.58579C3.21071 6.96086 3 7.46957 3 8V16C3 16.5304 3.21071 17.0391 3.58579 17.4142C3.96086 17.7893 4.46957 18 5 18H19C19.5304 18 20.0391 17.7893 20.4142 17.4142C20.7893 17.0391 21 16.5304 21 16Z" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M3 10H21" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M7 14H7.01" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M11 14H13" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <div class="timeline-content">
+                        <span class="step-number">05</span>
+                        <h3>Упаковка и отгрузка</h3>
+                        <p>Бережная упаковка и подготовка к отправке с учетом требований клиента и способа доставки</p>
+                        <ul class="process-features">
+                            <li>Различные виды упаковки</li>
+                            <li>Маркировка продукции</li>
+                            <li>Подготовка документации</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="order" class="order">
+        <div class="container">
+            <div class="order-content">
+                <div class="order-text" data-aos="fade-right">
+                    <h2>Получите персональное предложение</h2>
+                    <p>Оставьте заявку, и наш специалист свяжется с вами в течение 30 минут</p>
+                    <div class="order-features">
+                        <div class="order-feature">
+                            <i class="fas fa-clock"></i>
+                            <span>Быстрый расчет стоимости</span>
+                        </div>
+                        <div class="order-feature">
+                            <i class="fas fa-truck"></i>
+                            <span>Удобные условия доставки</span>
+                        </div>
+                        <div class="order-feature">
+                            <i class="fas fa-percent"></i>
+                            <span>Скидки постоянным клиентам</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="order-form" data-aos="fade-left">
+                    <form id="quick-order-form">
+                        <input type="hidden" name="_subject" value="Новая заявка с сайта">
+                        <input type="hidden" name="_captcha" value="false">
+                        <div class="form-group">
+                            <input type="text" name="name" placeholder="Ваше имя" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="tel" name="phone" placeholder="Ваш телефон" required>
+                        </div>
+                        <div class="form-group">
+                            <select name="product" required>
+                                <option value="">Выберите фракцию</option>
+                                <option value="fine">Мелкий (0,1-0,5 мм)</option>
+                                <option value="medium">Средний (0,5-1,2 мм)</option>
+                                <option value="coarse">Крупный (1,2-2,5 мм)</option>
+                            </select>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Получить предложение</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="advantages" class="advantages">
+        <div class="container">
+            <h2 class="section-title">Наши преимущества</h2>
+            <div class="advantages-grid">
+                <div class="advantage-item">
+                    <div class="advantage-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/>
+                        </svg>
+                    </div>
+                    <h3>Высокое качество</h3>
+                    <p>Мы гарантируем высокое качество кварцевого песка на каждом этапе производства</p>
+                </div>
+                <div class="advantage-item">
+                    <div class="advantage-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M12 8V12L15 15" stroke-linecap="round" stroke-linejoin="round"/>
+                            <circle cx="12" cy="12" r="9"/>
+                        </svg>
+                    </div>
+                    <h3>Точные сроки</h3>
+                    <p>Соблюдение сроков поставки и полная ответственность за качество продукции</p>
+                </div>
+                <div class="advantage-item">
+                    <div class="advantage-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
+                            <circle cx="9" cy="7" r="4"/>
+                            <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
+                            <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+                        </svg>
+                    </div>
+                    <h3>Команда профессионалов</h3>
+                    <p>Работает команда профессионалов, с большим опытом работы в сфере кварцевого песка</p>
+                </div>
+                <div class="advantage-item">
+                    <div class="advantage-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M3 3v18h18"/>
+                            <path d="M18.4 8l-6-6-6 6"/>
+                            <path d="M12.4 2v16"/>
+                        </svg>
+                    </div>
+                    <h3>Гибкие объемы</h3>
+                    <p>Доставка песка осуществляется любыми объемами от 1 тонны. Стоимость зависит от марки песка, объемов и дальности транспортировки</p>
+                </div>
+                <div class="advantage-item">
+                    <div class="advantage-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/>
+                        </svg>
+                    </div>
+                    <h3>Выгодные условия</h3>
+                    <p>Для оптовых покупателей из стран СНГ мы предлагаем гибкую систему скидок, стремясь к долгосрочному и взаимовыгодному партнерству</p>
+                </div>
+                <div class="advantage-item">
+                    <div class="advantage-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/>
+                            <path d="M22 4L12 14.01l-3-3"/>
+                        </svg>
+                    </div>
+                    <h3>Полное сопровождение</h3>
+                    <p>Наша компания несет полную ответственность за качество поставляемой продукции и сопровождает вас на протяжении всего процесса сделки</p>
+                </div>
+            </div>
+            
+            <div class="advantages-text">
+                <p>Мы гарантируем высокое качество кварцевого песка на каждом этапе производства. Наша компания несет полную ответственность за качество поставляемой продукции и сопровождает вас на протяжении всего процесса сделки.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="applications" class="applications">
+        <div class="container">
+            <h2 class="section-title">Области применения</h2>
+            <div class="applications-content">
+                <div class="application-tabs">
+                    <div class="tab-buttons">
+                        <button class="tab-btn active" data-tab="construction">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M2 22h20V6H2v16z"/>
+                                <path d="M17 2H7l-1.5 4h13L17 2z"/>
+                                <path d="M10 12h4v10h-4V12z"/>
+                            </svg>
+                            <span>Строительство</span>
+                        </button>
+                        <button class="tab-btn" data-tab="industry">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M12 15V3M10 3h4M3 21h18M5 21v-4M8 17v-2M11 17v-3M14 17v-4M17 17v-2M20 17v-5"/>
+                            </svg>
+                            <span>Промышленность</span>
+                        </button>
+                        <button class="tab-btn" data-tab="filtration">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/>
+                                <path d="M21.68 7.91L2 21"/>
+                                <path d="M2 3l19.68 13.09"/>
+                            </svg>
+                            <span>Фильтрация</span>
+                        </button>
+                        <button class="tab-btn" data-tab="landscaping">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"/>
+                                <path d="M8 9l-1.5 1.5L12 16l5.5-5.5L16 9l-4 4-4-4z"/>
+                            </svg>
+                            <span>Ландшафтный дизайн</span>
+                        </button>
+                    </div>
+                    <div class="tab-content">
+                        <div class="tab-pane active" id="construction">
+                            <div class="tab-pane-inner">
+                                <div class="tab-pane-content">
+                                    <h3>Применение в строительстве</h3>
+                                    <p>Кварцевый песок высоко ценится в строительной отрасли за свои уникальные свойства, которые делают его идеальным компонентом для:</p>
+                                    <ul class="application-list">
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Производства высокопрочного бетона</li>
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Изготовления строительных растворов и смесей</li>
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Штукатурных и отделочных работ</li>
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Производства сухих строительных смесей</li>
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Устройства стяжек пола</li>
+                                    </ul>
+                                    <a href="#contact" class="application-cta">Заказать для строительства</a>
+                                </div>
+                                <div class="tab-pane-image">
+                                    <svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" class="application-svg">
+                                        <!-- Строительная тематика -->
+                                        <defs>
+                                            <linearGradient id="construction-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                                                <stop offset="0%" stop-color="#FF6B35" stop-opacity="0.2"/>
+                                                <stop offset="100%" stop-color="#FF6B35" stop-opacity="0.6"/>
+                                            </linearGradient>
+                                        </defs>
+                                        <!-- Фон -->
+                                        <rect x="0" y="0" width="400" height="300" fill="#f8f9fa" rx="10" ry="10"/>
+                                        <!-- Песок -->
+                                        <path d="M0,220 C100,200 150,240 250,220 C350,200 400,230 400,230 L400,300 L0,300 Z" fill="#FFB563" opacity="0.7"/>
+                                        <!-- Здания -->
+                                        <rect x="50" y="110" width="80" height="110" fill="#2E4057" rx="2" ry="2"/>
+                                        <rect x="60" y="130" width="15" height="20" fill="#f8f9fa"/>
+                                        <rect x="85" y="130" width="15" height="20" fill="#f8f9fa"/>
+                                        <rect x="60" y="160" width="15" height="20" fill="#f8f9fa"/>
+                                        <rect x="85" y="160" width="15" height="20" fill="#f8f9fa"/>
+                                        <rect x="150" y="80" width="100" height="140" fill="#2E4057" rx="2" ry="2"/>
+                                        <rect x="165" y="100" width="20" height="25" fill="#f8f9fa"/>
+                                        <rect x="195" y="100" width="20" height="25" fill="#f8f9fa"/>
+                                        <rect x="225" y="100" width="20" height="25" fill="#f8f9fa"/>
+                                        <rect x="165" y="135" width="20" height="25" fill="#f8f9fa"/>
+                                        <rect x="195" y="135" width="20" height="25" fill="#f8f9fa"/>
+                                        <rect x="225" y="135" width="20" height="25" fill="#f8f9fa"/>
+                                        <rect x="165" y="170" width="20" height="25" fill="#f8f9fa"/>
+                                        <rect x="195" y="170" width="20" height="25" fill="#f8f9fa"/>
+                                        <rect x="225" y="170" width="20" height="25" fill="#f8f9fa"/>
+                                        <rect x="270" y="130" width="70" height="90" fill="#2E4057" rx="2" ry="2"/>
+                                        <rect x="280" y="150" width="15" height="20" fill="#f8f9fa"/>
+                                        <rect x="305" y="150" width="15" height="20" fill="#f8f9fa"/>
+                                        <rect x="280" y="180" width="15" height="20" fill="#f8f9fa"/>
+                                        <rect x="305" y="180" width="15" height="20" fill="#f8f9fa"/>
+                                        <!-- Кран -->
+                                        <rect x="350" y="70" width="10" height="150" fill="#2E4057"/>
+                                        <rect x="320" y="70" width="70" height="10" fill="#2E4057"/>
+                                        <path d="M320,70 L350,40 L390,70" fill="none" stroke="#2E4057" stroke-width="8"/>
+                                        <circle cx="315" cy="70" r="8" fill="#FF6B35"/>
+                                        <circle cx="320" cy="40" r="5" fill="#FF6B35"/>
+                                        <line x1="350" y1="80" x2="350" y2="220" stroke="#FF6B35" stroke-width="2" stroke-dasharray="5,5"/>
+                                        <!-- Анимированные частицы песка -->
+                                        <g class="sand-particles">
+                                            <circle cx="90" cy="230" r="3" fill="#FFB563" opacity="0.8">
+                                                <animate attributeName="cy" values="230;220;230" dur="3s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="150" cy="235" r="2" fill="#FFB563" opacity="0.8">
+                                                <animate attributeName="cy" values="235;225;235" dur="2.5s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="200" cy="228" r="4" fill="#FFB563" opacity="0.8">
+                                                <animate attributeName="cy" values="228;218;228" dur="3.5s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="280" cy="232" r="3" fill="#FFB563" opacity="0.8">
+                                                <animate attributeName="cy" values="232;222;232" dur="3.2s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="330" cy="235" r="2" fill="#FFB563" opacity="0.8">
+                                                <animate attributeName="cy" values="235;225;235" dur="2.8s" repeatCount="indefinite"/>
+                                            </circle>
+                                        </g>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="industry">
+                            <div class="tab-pane-inner">
+                                <div class="tab-pane-content">
+                                    <h3>Применение в промышленности</h3>
+                                    <p>В промышленном производстве кварцевый песок является незаменимым материалом для:</p>
+                                    <ul class="application-list">
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Стекольной промышленности</li>
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Литейного производства</li>
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Производства керамики и фарфора</li>
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Пескоструйной обработки поверхностей</li>
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Металлургической промышленности</li>
+                                    </ul>
+                                    <a href="#contact" class="application-cta">Заказать для промышленности</a>
+                                </div>
+                                <div class="tab-pane-image">
+                                    <svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" class="application-svg">
+                                        <!-- Промышленная тематика -->
+                                        <defs>
+                                            <linearGradient id="industry-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                                                <stop offset="0%" stop-color="#2E4057" stop-opacity="0.2"/>
+                                                <stop offset="100%" stop-color="#2E4057" stop-opacity="0.6"/>
+                                            </linearGradient>
+                                        </defs>
+                                        <!-- Фон -->
+                                        <rect x="0" y="0" width="400" height="300" fill="#f8f9fa" rx="10" ry="10"/>
+                                        <!-- Песок как база -->
+                                        <path d="M0,250 C80,240 200,260 350,245 Q380,242 400,245 L400,300 L0,300 Z" fill="#FFB563" opacity="0.7"/>
+                                        <!-- Заводские постройки -->
+                                        <rect x="40" y="100" width="110" height="150" fill="#2E4057" rx="2" ry="2"/>
+                                        <rect x="45" y="110" width="100" height="20" fill="#f1f1f1" rx="2" ry="2"/>
+                                        <rect x="45" y="140" width="100" height="20" fill="#f1f1f1" rx="2" ry="2"/>
+                                        <rect x="45" y="170" width="100" height="20" fill="#f1f1f1" rx="2" ry="2"/>
+                                        <rect x="45" y="200" width="100" height="20" fill="#f1f1f1" rx="2" ry="2"/>
+                                        
+                                        <!-- Промышленный комплекс -->
+                                        <rect x="180" y="130" width="60" height="120" fill="#2E4057"/>
+                                        <rect x="220" y="100" width="30" height="30" fill="#2E4057"/>
+                                        <rect x="220" y="70" width="15" height="30" fill="#2E4057"/>
+                                        <rect x="250" y="150" width="70" height="100" fill="#2E4057" rx="2" ry="2"/>
+                                        <rect x="290" y="110" width="20" height="40" fill="#2E4057"/>
+                                        
+                                        <!-- Трубы -->
+                                        <rect x="195" y="60" width="10" height="70" fill="#FF6B35"/>
+                                        <circle cx="200" cy="60" r="7" fill="#FFB563"/>
+                                        <rect x="230" y="40" width="10" height="30" fill="#FF6B35"/>
+                                        <circle cx="235" cy="40" r="7" fill="#FFB563"/>
+                                        <rect x="290" y="80" width="10" height="30" fill="#FF6B35"/>
+                                        <circle cx="295" cy="80" r="7" fill="#FFB563"/>
+                                        <rect x="330" y="130" width="10" height="20" fill="#FF6B35"/>
+                                        <circle cx="335" cy="130" r="7" fill="#FFB563"/>
+                                        
+                                        <!-- Песок в производстве (в виде частиц) -->
+                                        <g class="industrial-particles">
+                                            <circle cx="200" cy="50" r="2" fill="#FFB563" opacity="0.9">
+                                                <animate attributeName="cy" values="50;45;50" dur="2s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="235" cy="30" r="2" fill="#FFB563" opacity="0.9">
+                                                <animate attributeName="cy" values="30;25;30" dur="2.2s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="295" cy="70" r="2" fill="#FFB563" opacity="0.9">
+                                                <animate attributeName="cy" values="70;65;70" dur="1.8s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="335" cy="120" r="2" fill="#FFB563" opacity="0.9">
+                                                <animate attributeName="cy" values="120;115;120" dur="2.5s" repeatCount="indefinite"/>
+                                            </circle>
+                                        </g>
+
+                                        <!-- Химические элементы/молекулы -->
+                                        <g class="molecules" transform="translate(340, 200)">
+                                            <circle cx="0" cy="0" r="8" fill="#FF6B35" opacity="0.8"/>
+                                            <circle cx="15" cy="-10" r="6" fill="#2E4057" opacity="0.8"/>
+                                            <circle cx="-10" cy="12" r="7" fill="#2E4057" opacity="0.8"/>
+                                            <line x1="0" y1="0" x2="15" y2="-10" stroke="#f1f1f1" stroke-width="2"/>
+                                            <line x1="0" y1="0" x2="-10" y2="12" stroke="#f1f1f1" stroke-width="2"/>
+                                            <animateTransform attributeName="transform" type="rotate" from="0 340 200" to="360 340 200" dur="20s" repeatCount="indefinite"/>
+                                        </g>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="filtration">
+                            <div class="tab-pane-inner">
+                                <div class="tab-pane-content">
+                                    <h3>Применение в системах фильтрации</h3>
+                                    <p>Благодаря своей химической инертности, кварцевый песок широко используется в системах фильтрации:</p>
+                                    <ul class="application-list">
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Очистка питьевой воды</li>
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Фильтрация в бассейнах</li>
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Очистка сточных вод</li>
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Промышленная фильтрация</li>
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Нефтегазовая промышленность</li>
+                                    </ul>
+                                    <a href="#contact" class="application-cta">Заказать для фильтрации</a>
+                                </div>
+                                <div class="tab-pane-image">
+                                    <svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" class="application-svg">
+                                        <!-- Тематика фильтрации -->
+                                        <defs>
+                                            <linearGradient id="water-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                                                <stop offset="0%" stop-color="#4A7EAA" stop-opacity="0.2"/>
+                                                <stop offset="100%" stop-color="#4A7EAA" stop-opacity="0.7"/>
+                                            </linearGradient>
+                                            <radialGradient id="sand-gradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+                                                <stop offset="0%" stop-color="#FFB563" stop-opacity="1"/>
+                                                <stop offset="100%" stop-color="#FF6B35" stop-opacity="0.6"/>
+                                            </radialGradient>
+                                        </defs>
+                                        
+                                        <!-- Фон -->
+                                        <rect x="0" y="0" width="400" height="300" fill="#f8f9fa" rx="10" ry="10"/>
+                                        
+                                        <!-- Водоочистные сооружения -->
+                                        <rect x="40" y="50" width="320" height="200" fill="#f1f1f1" rx="5" ry="5" stroke="#2E4057" stroke-width="2"/>
+                                        
+                                        <!-- Слой воды -->
+                                        <rect x="50" y="60" width="300" height="80" fill="url(#water-gradient)" rx="3" ry="3"/>
+                                        
+                                        <!-- Слой песка (фильтрационный) -->
+                                        <rect x="50" y="140" width="300" height="60" fill="url(#sand-gradient)" rx="0" ry="0"/>
+                                        
+                                        <!-- Нижний слой -->
+                                        <rect x="50" y="200" width="300" height="40" fill="#dcdcdc" rx="0" ry="0"/>
+                                        
+                                        <!-- Трубы и элементы оборудования -->
+                                        <rect x="20" y="100" width="20" height="10" fill="#2E4057"/>
+                                        <rect x="360" y="100" width="20" height="10" fill="#2E4057"/>
+                                        <rect x="20" y="190" width="20" height="10" fill="#2E4057"/>
+                                        <rect x="360" y="190" width="20" height="10" fill="#2E4057"/>
+                                        
+                                        <!-- Индикаторы и элементы управления -->
+                                        <circle cx="200" cy="35" r="10" fill="#FF6B35" stroke="#2E4057" stroke-width="1"/>
+                                        <rect x="185" y="20" width="30" height="5" fill="#2E4057"/>
+                                        <rect x="170" y="260" width="60" height="15" fill="#2E4057" rx="2" ry="2"/>
+                                        <circle cx="185" cy="267" r="5" fill="#FF6B35"/>
+                                        <circle cx="200" cy="267" r="5" fill="#4A7EAA"/>
+                                        <circle cx="215" cy="267" r="5" fill="#4A7EAA"/>
+                                        
+                                        <!-- Анимация пузырьков воды -->
+                                        <g class="water-bubbles">
+                                            <circle cx="100" cy="90" r="3" fill="#ffffff" opacity="0.7">
+                                                <animate attributeName="cy" values="90;70;90" dur="3s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="150" cy="80" r="2" fill="#ffffff" opacity="0.7">
+                                                <animate attributeName="cy" values="80;65;80" dur="2.5s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="200" cy="85" r="4" fill="#ffffff" opacity="0.7">
+                                                <animate attributeName="cy" values="85;65;85" dur="3.5s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="250" cy="75" r="3" fill="#ffffff" opacity="0.7">
+                                                <animate attributeName="cy" values="75;60;75" dur="3s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="300" cy="95" r="2" fill="#ffffff" opacity="0.7">
+                                                <animate attributeName="cy" values="95;75;95" dur="2.8s" repeatCount="indefinite"/>
+                                            </circle>
+                                        </g>
+                                        
+                                        <!-- Анимация частиц песка в фильтре -->
+                                        <g class="sand-particles">
+                                            <circle cx="100" cy="160" r="2" fill="#FF6B35" opacity="0.8">
+                                                <animate attributeName="cy" values="160;165;160" dur="4s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="150" cy="165" r="1.5" fill="#FF6B35" opacity="0.8">
+                                                <animate attributeName="cy" values="165;170;165" dur="3.5s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="200" cy="155" r="2" fill="#FF6B35" opacity="0.8">
+                                                <animate attributeName="cy" values="155;162;155" dur="5s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="250" cy="170" r="1.5" fill="#FF6B35" opacity="0.8">
+                                                <animate attributeName="cy" values="170;175;170" dur="4.5s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="300" cy="158" r="2" fill="#FF6B35" opacity="0.8">
+                                                <animate attributeName="cy" values="158;165;158" dur="4.2s" repeatCount="indefinite"/>
+                                            </circle>
+                                        </g>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="landscaping">
+                            <div class="tab-pane-inner">
+                                <div class="tab-pane-content">
+                                    <h3>Применение в ландшафтном дизайне</h3>
+                                    <p>Кварцевый песок является популярным материалом в ландшафтном дизайне для:</p>
+                                    <ul class="application-list">
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Создания декоративных элементов</li>
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Обустройства детских площадок</li>
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Изготовления дренажных систем</li>
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Оформления аквариумов</li>
+                                        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Создания песчаных пляжей</li>
+                                    </ul>
+                                    <a href="#contact" class="application-cta">Заказать для ландшафта</a>
+                                </div>
+                                <div class="tab-pane-image">
+                                    <svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" class="application-svg">
+                                        <!-- Тематика ландшафтного дизайна -->
+                                        <defs>
+                                            <linearGradient id="sky-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                                                <stop offset="0%" stop-color="#A9D5F5" stop-opacity="1"/>
+                                                <stop offset="100%" stop-color="#E5F3FF" stop-opacity="1"/>
+                                            </linearGradient>
+                                            <linearGradient id="grass-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                                                <stop offset="0%" stop-color="#7AC74F" stop-opacity="1"/>
+                                                <stop offset="100%" stop-color="#5A9E38" stop-opacity="1"/>
+                                            </linearGradient>
+                                        </defs>
+                                        
+                                        <!-- Фон - небо -->
+                                        <rect x="0" y="0" width="400" height="150" fill="url(#sky-gradient)" rx="10" ry="10"/>
+                                        
+                                        <!-- Солнце -->
+                                        <circle cx="350" cy="50" r="30" fill="#FFE082">
+                                            <animate attributeName="opacity" values="0.8;1;0.8" dur="5s" repeatCount="indefinite"/>
+                                        </circle>
+                                        
+                                        <!-- Облака -->
+                                        <g class="clouds">
+                                            <ellipse cx="80" cy="40" rx="30" ry="15" fill="white" opacity="0.9"/>
+                                            <ellipse cx="120" cy="30" rx="40" ry="20" fill="white" opacity="0.9"/>
+                                            <ellipse cx="70" cy="30" rx="25" ry="15" fill="white" opacity="0.9"/>
+                                            
+                                            <ellipse cx="280" cy="60" rx="35" ry="18" fill="white" opacity="0.7"/>
+                                            <ellipse cx="320" cy="50" rx="25" ry="15" fill="white" opacity="0.7"/>
+                                            <ellipse cx="270" cy="50" rx="20" ry="12" fill="white" opacity="0.7"/>
+                                        </g>
+                                        
+                                        <!-- Основа ландшафта - трава -->
+                                        <path d="M0,150 L400,150 L400,300 L0,300 Z" fill="url(#grass-gradient)"/>
+                                        
+                                        <!-- Песочная дорожка -->
+                                        <path d="M50,180 C100,170 150,190 200,180 C250,170 300,190 350,180 L350,300 L50,300 Z" fill="#FFB563" opacity="0.9"/>
+                                        
+                                        <!-- Песочница -->
+                                        <rect x="70" y="210" width="80" height="60" rx="5" ry="5" fill="#8B4513" stroke="#5D3A21" stroke-width="2"/>
+                                        <rect x="75" y="215" width="70" height="50" rx="3" ry="3" fill="#FFB563"/>
+                                        
+                                        <!-- Декоративные элементы из песка -->
+                                        <ellipse cx="270" cy="240" rx="40" ry="20" fill="#FFB563" stroke="#FF6B35" stroke-width="1" opacity="0.9"/>
+                                        <ellipse cx="320" cy="260" rx="30" ry="15" fill="#FFB563" stroke="#FF6B35" stroke-width="1" opacity="0.9"/>
+                                        
+                                        <!-- Растения -->
+                                        <g class="plants">
+                                            <!-- Куст 1 -->
+                                            <path d="M40,180 Q50,160 60,180" fill="none" stroke="#5A9E38" stroke-width="2"/>
+                                            <path d="M40,185 Q55,165 65,185" fill="none" stroke="#5A9E38" stroke-width="2"/>
+                                            <ellipse cx="50" cy="160" rx="12" ry="10" fill="#7AC74F"/>
+                                            
+                                            <!-- Куст 2 -->
+                                            <path d="M350,190 Q360,170 370,190" fill="none" stroke="#5A9E38" stroke-width="2"/>
+                                            <path d="M355,193 Q370,173 380,193" fill="none" stroke="#5A9E38" stroke-width="2"/>
+                                            <ellipse cx="365" cy="170" rx="15" ry="12" fill="#7AC74F"/>
+                                            
+                                            <!-- Цветы -->
+                                            <circle cx="120" cy="190" r="5" fill="#FF6B35"/>
+                                            <circle cx="120" cy="190" r="2" fill="#FFE082"/>
+                                            <path d="M120,200 Q120,190 120,180" fill="none" stroke="#5A9E38" stroke-width="1"/>
+                                            
+                                            <circle cx="135" cy="195" r="4" fill="#FF6B35"/>
+                                            <circle cx="135" cy="195" r="1.5" fill="#FFE082"/>
+                                            <path d="M135,205 Q135,195 135,185" fill="none" stroke="#5A9E38" stroke-width="1"/>
+                                            
+                                            <circle cx="150" cy="190" r="5" fill="#FF6B35"/>
+                                            <circle cx="150" cy="190" r="2" fill="#FFE082"/>
+                                            <path d="M150,200 Q150,190 150,180" fill="none" stroke="#5A9E38" stroke-width="1"/>
+                                        </g>
+                                        
+                                        <!-- Игровые элементы в песочнице -->
+                                        <rect x="90" y="225" width="10" height="5" fill="#FF6B35"/>
+                                        <circle cx="95" cy="230" r="5" fill="#2E4057"/>
+                                        <rect x="120" y="230" width="8" height="12" fill="#2E4057"/>
+                                        
+                                        <!-- Анимация песчинок -->
+                                        <g class="sand-particles">
+                                            <circle cx="100" cy="230" r="1" fill="#FF6B35" opacity="0.8">
+                                                <animate attributeName="cy" values="230;228;230" dur="3s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="110" cy="235" r="1" fill="#FF6B35" opacity="0.8">
+                                                <animate attributeName="cy" values="235;233;235" dur="2.5s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="270" cy="240" r="1" fill="#FF6B35" opacity="0.8">
+                                                <animate attributeName="cy" values="240;238;240" dur="3.5s" repeatCount="indefinite"/>
+                                            </circle>
+                                            <circle cx="320" cy="260" r="1" fill="#FF6B35" opacity="0.8">
+                                                <animate attributeName="cy" values="260;258;260" dur="4s" repeatCount="indefinite"/>
+                                            </circle>
+                                        </g>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="testimonials" class="testimonials">
+        <div class="container">
+            <h2 class="section-title" data-aos="fade-up">Что говорят наши клиенты</h2>
+            <div class="testimonials-wrapper">
+                <div class="testimonials-slider">
+                    <div class="testimonial">
+                        <div class="testimonial-content">
+                            <div class="testimonial-header">
+                                <div class="testimonial-author">
+                                    <svg class="testimonial-avatar" width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C14.7614 2 17 4.23858 17 7C17 9.76142 14.7614 12 12 12C9.23858 12 7 9.76142 7 7C7 4.23858 9.23858 2 12 2Z" fill="var(--primary-color)" fill-opacity="0.2"/><path d="M20.5858 21.4142C18.7636 19.592 15.6451 18.611 12.0001 18.611C8.35506 18.611 5.23657 19.592 3.41436 21.4142C3.11737 21.7112 3.17558 22.1857 3.51846 22.4206C3.86133 22.6555 4.37262 22.5959 4.64998 22.2617C6.77307 19.7983 9.92683 19.111 12.0001 19.111C14.0733 19.111 17.2271 19.7983 19.3501 22.2617C19.6275 22.5959 20.1388 22.6555 20.4817 22.4206C20.8245 22.1857 20.8827 21.7112 20.5858 21.4142Z" fill="var(--secondary-color)"/><path d="M12 12C14.7614 12 17 9.76142 17 7C17 4.23858 14.7614 2 12 2C9.23858 2 7 4.23858 7 7C7 9.76142 9.23858 12 12 12Z" stroke="var(--primary-color)" stroke-width="1.5"/></svg>
+                                    <div class="author-info">
+                                        <h4>Иван Петров</h4>
+                                        <p>ООО "СтройИнвест"</p>
+                                        <div class="rating">
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="testimonial-date">Май 2024</div>
+                            </div>
+                            <div class="testimonial-text">
+                                <svg class="quote-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10 11H6C4.89543 11 4 10.1046 4 9V6C4 4.89543 4.89543 4 6 4H9C10.1046 4 11 4.89543 11 6V14C11 17.3137 8.31371 20 5 20" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M22 11H18C16.8954 11 16 10.1046 16 9V6C16 4.89543 16.8954 4 18 4H21C22.1046 4 23 4.89543 23 6V14C23 17.3137 20.3137 20 17 20" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                <p>Сотрудничаем с компанией более 3 лет. Всегда стабильное качество и точное соблюдение сроков поставок. Рекомендуем как надежного поставщика.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="testimonial">
+                        <div class="testimonial-content">
+                            <div class="testimonial-header">
+                                <div class="testimonial-author">
+                                    <svg class="testimonial-avatar" width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C14.7614 2 17 4.23858 17 7C17 9.76142 14.7614 12 12 12C9.23858 12 7 9.76142 7 7C7 4.23858 9.23858 2 12 2Z" fill="var(--primary-color)" fill-opacity="0.2"/><path d="M20.5858 21.4142C18.7636 19.592 15.6451 18.611 12.0001 18.611C8.35506 18.611 5.23657 19.592 3.41436 21.4142C3.11737 21.7112 3.17558 22.1857 3.51846 22.4206C3.86133 22.6555 4.37262 22.5959 4.64998 22.2617C6.77307 19.7983 9.92683 19.111 12.0001 19.111C14.0733 19.111 17.2271 19.7983 19.3501 22.2617C19.6275 22.5959 20.1388 22.6555 20.4817 22.4206C20.8245 22.1857 20.8827 21.7112 20.5858 21.4142Z" fill="var(--secondary-color)"/><path d="M12 12C14.7614 12 17 9.76142 17 7C17 4.23858 14.7614 2 12 2C9.23858 2 7 4.23858 7 7C7 9.76142 9.23858 12 12 12Z" stroke="var(--primary-color)" stroke-width="1.5"/></svg>
+                                    <div class="author-info">
+                                        <h4>Мария Сидорова</h4>
+                                        <p>ЗАО "СтеклоМир"</p>
+                                        <div class="rating">
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="testimonial-date">Апрель 2024</div>
+                            </div>
+                            <div class="testimonial-text">
+                                <svg class="quote-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10 11H6C4.89543 11 4 10.1046 4 9V6C4 4.89543 4.89543 4 6 4H9C10.1046 4 11 4.89543 11 6V14C11 17.3137 8.31371 20 5 20" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M22 11H18C16.8954 11 16 10.1046 16 9V6C16 4.89543 16.8954 4 18 4H21C22.1046 4 23 4.89543 23 6V14C23 17.3137 20.3137 20 17 20" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                <p>Благодаря высокому качеству кварцевого песка смогли повысить качество нашей продукции. Отдельное спасибо за индивидуальный подход!</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="testimonial">
+                        <div class="testimonial-content">
+                            <div class="testimonial-header">
+                                <div class="testimonial-author">
+                                    <svg class="testimonial-avatar" width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C14.7614 2 17 4.23858 17 7C17 9.76142 14.7614 12 12 12C9.23858 12 7 9.76142 7 7C7 4.23858 9.23858 2 12 2Z" fill="var(--primary-color)" fill-opacity="0.2"/><path d="M20.5858 21.4142C18.7636 19.592 15.6451 18.611 12.0001 18.611C8.35506 18.611 5.23657 19.592 3.41436 21.4142C3.11737 21.7112 3.17558 22.1857 3.51846 22.4206C3.86133 22.6555 4.37262 22.5959 4.64998 22.2617C6.77307 19.7983 9.92683 19.111 12.0001 19.111C14.0733 19.111 17.2271 19.7983 19.3501 22.2617C19.6275 22.5959 20.1388 22.6555 20.4817 22.4206C20.8245 22.1857 20.8827 21.7112 20.5858 21.4142Z" fill="var(--secondary-color)"/><path d="M12 12C14.7614 12 17 9.76142 17 7C17 4.23858 14.7614 2 12 2C9.23858 2 7 4.23858 7 7C7 9.76142 9.23858 12 12 12Z" stroke="var(--primary-color)" stroke-width="1.5"/></svg>
+                                    <div class="author-info">
+                                        <h4>Алексей Николаев</h4>
+                                        <p>ПАО "АкваТех"</p>
+                                        <div class="rating">
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                            <svg class="star" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="testimonial-date">Март 2024</div>
+                            </div>
+                            <div class="testimonial-text">
+                                <svg class="quote-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10 11H6C4.89543 11 4 10.1046 4 9V6C4 4.89543 4.89543 4 6 4H9C10.1046 4 11 4.89543 11 6V14C11 17.3137 8.31371 20 5 20" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M22 11H18C16.8954 11 16 10.1046 16 9V6C16 4.89543 16.8954 4 18 4H21C22.1046 4 23 4.89543 23 6V14C23 17.3137 20.3137 20 17 20" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                <p>Заказываем песок для фильтрационных систем. Качество материала позволяет достичь отличных результатов очистки. Будем продолжать сотрудничество.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="slider-controls">
+                    <button class="prev-btn" aria-label="Предыдущий отзыв">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polyline points="15 18 9 12 15 6"></polyline>
+                        </svg>
+                    </button>
+                    <div class="slider-dots">
+                        <span class="dot active" aria-label="Отзыв 1"></span>
+                        <span class="dot" aria-label="Отзыв 2"></span>
+                        <span class="dot" aria-label="Отзыв 3"></span>
+                    </div>
+                    <button class="next-btn" aria-label="Следующий отзыв">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polyline points="9 18 15 12 9 6"></polyline>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2 class="section-title">Свяжитесь с нами</h2>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <h3>Контактная информация</h3>
+                    <ul class="contact-list">
+                        <li>
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                            <p><a href="tel:+79603616850">8-960-361-68-50</a></p>
+                        </li>
+                        <li>
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                <path d="M22 6l-10 7L2 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                            <p><a href="mailto:yuventaas@mail.ru">yuventaas@mail.ru</a></p>
+                        </li>
+                        <li>
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                <circle cx="12" cy="10" r="3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                            <p>г.Ульяновск б-р Архитеткоров 13</p>
+                        </li>
+                    </ul>
+                    <div class="social-links">
+                        <a href="https://wa.me/79603616850" class="social-link whatsapp">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </a>
+                        <a href="https://t.me/79603616850" class="social-link telegram">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M22 2L11 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                <path d="M22 2L15 22L11 13L2 9L22 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="contact-form">
+                    <form id="quartz-form">
+                        <input type="hidden" name="_subject" value="Запрос по кварцевому песку с сайта">
+                        <input type="hidden" name="_captcha" value="false">
+                        <div class="form-group">
+                            <label for="name">Ваше имя</label>
+                            <input type="text" id="name" name="name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="company">Название компании</label>
+                            <input type="text" id="company" name="company">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="phone">Телефон</label>
+                            <input type="tel" id="phone" name="phone" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="product">Интересующий продукт</label>
+                            <select id="product" name="product">
+                                <option value="fine">Мелкий песок (0,1-0,5 мм)</option>
+                                <option value="medium">Средний песок (0,5-1,2 мм)</option>
+                                <option value="coarse">Крупный песок (1,2-2,5 мм)</option>
+                                <option value="mixed">Разные фракции</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="volume">Примерный объем</label>
+                            <select id="volume" name="volume">
+                                <option value="small">До 1 тонны</option>
+                                <option value="medium">1-10 тонн</option>
+                                <option value="large">10-50 тонн</option>
+                                <option value="extra">Более 50 тонн</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Сообщение</label>
+                            <textarea id="message" name="message" rows="4"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary">Отправить запрос</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="delivery" class="delivery">
+        <div class="container">
+            <h2 class="section-title">Доставка</h2>
+            
+            <div class="delivery-options">
+                <div class="delivery-option">
+                    <div class="delivery-icon">
+                        <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M16 2H3C2.44772 2 2 2.44772 2 3V16C2 16.5523 2.44772 17 3 17H16C16.5523 17 17 16.5523 17 16V3C17 2.44772 16.5523 2 16 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M17 9H21C21.5523 9 22 9.44772 22 10V19C22 19.5523 21.5523 20 21 20H10C9.44772 20 9 19.5523 9 19V17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M6 8L9 11L14 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <h3>Самовывоз</h3>
+                    <p>Самовывоз автомобильным транспортом с нашего склада. Мы обеспечим быструю погрузку и оформление всех необходимых документов.</p>
+                </div>
+                
+                <div class="delivery-option">
+                    <div class="delivery-icon">
+                        <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M4 15H15V5H4V15ZM4 15H2V18H15V15M7 18V21M12 18V21" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M15 9H19L22 12V15H19" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <circle cx="7" cy="15" r="2" stroke="currentColor" stroke-width="2"/>
+                            <circle cx="17" cy="15" r="2" stroke="currentColor" stroke-width="2"/>
+                        </svg>
+                    </div>
+                    <h3>Автодоставка</h3>
+                    <p>Доставка непосредственно на ваш объект автомобильным транспортом. Мы организуем перевозку в любую точку страны с гарантией сохранности груза.</p>
+                </div>
+                
+                <div class="delivery-option">
+                    <div class="delivery-icon">
+                        <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M2 9H22V12H22C22 13.1046 21.1046 14 20 14H4C2.89543 14 2 13.1046 2 12V9Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M5 14V17C5 17.5523 5.44772 18 6 18H18C18.5523 18 19 17.5523 19 17V14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <rect x="3" y="6" width="18" height="3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <circle cx="7" cy="18" r="2" stroke="currentColor" stroke-width="2"/>
+                            <circle cx="17" cy="18" r="2" stroke="currentColor" stroke-width="2"/>
+                        </svg>
+                    </div>
+                    <h3>Ж/Д доставка</h3>
+                    <p>Железнодорожная доставка вагонами-хопперами или в контейнерах. Оптимальное решение для крупных партий и удаленных регионов.</p>
+                </div>
+            </div>
+            
+            <div class="delivery-advantages">
+                <div class="delivery-advantage">
+                    <div class="advantage-icon">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M12 8V12L15 15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2"/>
+                        </svg>
+                    </div>
+                    <div class="advantage-content">
+                        <h4>Точно в срок</h4>
+                        <p>Мы гарантируем доставку в согласованные сроки и информируем вас о каждом этапе перевозки</p>
+                    </div>
+                </div>
+                
+                <div class="delivery-advantage">
+                    <div class="advantage-icon">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M9 12L11 14L15 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="currentColor" stroke-width="2"/>
+                        </svg>
+                    </div>
+                    <div class="advantage-content">
+                        <h4>Качество</h4>
+                        <p>Мы обеспечиваем сохранность качества продукции на всех этапах транспортировки</p>
+                    </div>
+                </div>
+                
+                <div class="delivery-advantage">
+                    <div class="advantage-icon">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M12 2V6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                            <path d="M12 18V22" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                            <path d="M4.93 4.93L7.76 7.76" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                            <path d="M16.24 16.24L19.07 19.07" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                            <path d="M2 12H6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                            <path d="M18 12H22" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                            <path d="M4.93 19.07L7.76 16.24" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                            <path d="M16.24 7.76L19.07 4.93" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                        </svg>
+                    </div>
+                    <div class="advantage-content">
+                        <h4>Гибкие условия</h4>
+                        <p>Подберем оптимальный способ доставки с учетом ваших требований и особенностей груза</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="delivery-contact">
+                <p>Для уточнения деталей по доставке и отгрузке свяжитесь с нашими менеджерами</p>
+                <a href="#contact" class="btn btn-primary">Связаться с нами</a>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <a href="#">
+                        <svg class="logo-icon" width="40" height="40" viewBox="0 0 40 40" fill="none">
+                            <path d="M20 0L37.3205 10V30L20 40L2.67949 30V10L20 0Z" fill="var(--primary-color)"/>
+                            <path d="M20 5L32.3205 12V26L20 33L7.67949 26V12L20 5Z" fill="white"/>
+                        </svg>
+                        <span class="logo-text">ООО <span>Ювента</span></span>
+                    </a>
+                    <p>Поставки кварцевого песка высочайшего качества для промышленности и строительства</p>
+                    <div class="social-links">
+                        <a href="https://wa.me/79603616850" class="social-link whatsapp" aria-label="WhatsApp">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </a>
+                        <a href="https://t.me/79603616850" class="social-link telegram" aria-label="Telegram">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M22 2L11 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                <path d="M22 2L15 22L11 13L2 9L22 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="footer-links">
+                    <div class="footer-column">
+                        <h3>Навигация</h3>
+                        <ul>
+                            <li><a href="#about">О продукте</a></li>
+                            <li><a href="#products">Продукция</a></li>
+                            <li><a href="#process">Производство</a></li>
+                            <li><a href="#advantages">Преимущества</a></li>
+                            <li><a href="#applications">Применение</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-column">
+                        <h3>Контакты</h3>
+                        <ul class="contact-list">
+                            <li>
+                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                </svg>
+                                <a href="tel:+79603616850">8-960-361-68-50</a>
+                            </li>
+                            <li>
+                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                    <path d="M22 6l-10 7L2 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                </svg>
+                                <a href="mailto:yuventaas@mail.ru">yuventaas@mail.ru</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div class="copyright">
+                    <p>&copy; <span id="current-year">2024</span> ООО "Ювента". Все права защищены.</p>
+                </div>
+                
+                <!-- Дополнительные SEO-ссылки -->
+                <div class="site-map">
+                    <a href="https://yuventa.online/sitemap.xml" aria-label="Карта сайта для поисковых систем">Sitemap</a>
+                    <a href="https://yuventa.online/privacy-policy" rel="nofollow">Политика конфиденциальности</a>
+                    <a href="https://yuventa.online/terms" rel="nofollow">Условия использования</a>
+                </div>
+            </div>
+            
+            <!-- Скрытые ключевые слова для SEO -->
+            <div class="hidden-keywords" aria-hidden="true">
+                <span>кварцевый песок оптом купить поставщик производитель кварцевого песка строительный формовочный фильтрационный песок разные фракции промышленный песок доставка по России высокая чистота SiO2 содержание кремния 99.5%</span>
+            </div>
+        </div>
+    </footer>
+
+    <div class="back-to-top">
+         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="18 15 12 9 15 6"></polyline></svg>
+    </div>
+
+    <div id="product-details" class="modal">
+        <div class="modal-content">
+             <span class="modal-close">&times;</span>
+            <div class="specs-content">
+                 <h3>Характеристики продукта</h3>
+                 <p>Подробные характеристики будут загружены здесь.</p>
+             </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script src="script.js"></script>
+</body>
+</html> 
