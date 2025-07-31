@@ -80,56 +80,71 @@
 </head>
 <body>
     <header id="header">
-        <div class="container">
-            <nav class="header-nav">
-                <div class="logo">
-                    <a href="#" class="logo-link">
-                        <svg class="logo-icon" width="40" height="40" viewBox="0 0 40 40" fill="none">
-                            <path d="M20 0L37.3205 10V30L20 40L2.67949 30V10L20 0Z" fill="var(--primary-color)"/>
-                            <path d="M20 5L32.3205 12V26L20 33L7.67949 26V12L20 5Z" fill="white"/>
-                        </svg>
-                        <span class="logo-text">ООО <span>Ювента</span></span>
-                    </a>
-                </div>
-                
-                <div class="header-content">
-                    <div class="header-contacts">
-                        <a href="tel:+79603616850" class="contact-phone">
-                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                            </svg>
-                            8-960-361-68-50
-                        </a>
-                        <div class="header-social">
-                            <a href="https://wa.me/79603616850" class="social-link whatsapp" target="_blank">
-                                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+        <!-- Верхняя полоса -->
+        <div class="header-top">
+            <div class="container">
+                <div class="header-top-content">
+                    <div class="header-top-left">
+                        <span class="header-info">Задайте вопрос, мы онлайн</span>
+                        <span class="header-address">г. Ульяновск, б-р Архитекторов, 13</span>
+                    </div>
+                    <div class="header-top-right">
+                        <span class="header-schedule">ПН-ВС: с 8:00 до 20:00</span>
+                        <div class="header-contact">
+                            <a href="tel:+79603616850" class="header-phone">+7 (960) 361-68-50</a>
+                            <a href="#contact" class="header-callback-btn">Заказать звонок</a>
+                        </div>
+                        <div class="header-messengers">
+                            <a href="https://wa.me/79603616850" class="messenger-link whatsapp" target="_blank" title="WhatsApp">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
                                     <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.465 3.488"/>
                                 </svg>
                             </a>
-                            <a href="https://t.me/79603616850" class="social-link telegram" target="_blank">
-                                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                            <a href="https://t.me/79603616850" class="messenger-link telegram" target="_blank" title="Telegram">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
                                     <path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/>
                                 </svg>
                             </a>
                         </div>
                     </div>
-                    
-                    <div class="nav-links">
-                        <a href="#products">Продукция</a>
-                        <a href="#about">О компании</a>
-                        <a href="#applications">Применение</a>
-                        <a href="#delivery">Доставка и оплата</a>
-                        <a href="#testimonials">Отзывы</a>
-                        <a href="#contact" class="nav-contact-btn">Контакты</a>
-                    </div>
                 </div>
+            </div>
+        </div>
 
-                <button class="mobile-menu-btn">
-                    <svg class="menu-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
-                        <path d="M3 18H21V16H3V18ZM3 13H21V11H3V13ZM3 6V8H21V6H3Z" fill="currentColor"/>
-                    </svg>
-                </button>
-            </nav>
+        <!-- Основная навигация -->
+        <div class="header-main">
+            <div class="container">
+                <nav class="header-nav">
+                    <div class="logo">
+                        <a href="#" class="logo-link">
+                            <svg class="logo-icon" width="45" height="45" viewBox="0 0 40 40" fill="none">
+                                <path d="M20 0L37.3205 10V30L20 40L2.67949 30V10L20 0Z" fill="var(--primary-color)"/>
+                                <path d="M20 5L32.3205 12V26L20 33L7.67949 26V12L20 5Z" fill="white"/>
+                            </svg>
+                            <span class="logo-text">ООО <span>Ювента</span></span>
+                        </a>
+                    </div>
+                    
+                    <div class="nav-menu">
+                        <a href="#" class="nav-home" title="Главная">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M12 5.69L17 10.19V18H15V12H9V18H7V10.19L12 5.69M12 3L2 12H5V20H11V14H13V20H19V12H22L12 3Z"/>
+                            </svg>
+                        </a>
+                        <a href="#products" class="nav-link">ПРОДУКЦИЯ</a>
+                        <a href="#about" class="nav-link">О КОМПАНИИ</a>
+                        <a href="#applications" class="nav-link">ПРИМЕНЕНИЕ</a>
+                        <a href="#delivery" class="nav-link">ДОСТАВКА И ОПЛАТА</a>
+                        <a href="#contact" class="nav-link">КОНТАКТЫ</a>
+                    </div>
+
+                    <button class="mobile-menu-btn">
+                        <svg class="menu-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                            <path d="M3 18H21V16H3V18ZM3 13H21V11H3V13ZM3 6V8H21V6H3Z" fill="currentColor"/>
+                        </svg>
+                    </button>
+                </nav>
+            </div>
         </div>
     </header>
 
@@ -1163,7 +1178,7 @@
     <section id="contact" class="contact">
         <div class="container">
             <div class="contact-header">
-                <h2 class="section-title">Свяжитесь с нами</h2>
+            <h2 class="section-title">Свяжитесь с нами</h2>
                 <p class="contact-subtitle">Получите персональное коммерческое предложение в течение 30 минут</p>
             </div>
             
@@ -1200,21 +1215,21 @@
                     
                     <div class="social-contact">
                         <p>Быстрая связь:</p>
-                        <div class="social-links">
+                    <div class="social-links">
                             <a href="https://wa.me/79603616850" class="social-link whatsapp" target="_blank">
                                 <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.465 3.488"/>
-                                </svg>
+                            </svg>
                                 <span>WhatsApp</span>
                             </a>
                             <a href="https://t.me/79603616850" class="social-link telegram" target="_blank">
                                 <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/>
-                                </svg>
+                            </svg>
                                 <span>Telegram</span>
-                            </a>
-                        </div>
+                        </a>
                     </div>
+                </div>
                 </div>
                 
                 <div class="contact-form-card">
@@ -1228,27 +1243,27 @@
                         <input type="hidden" name="_captcha" value="false">
                         
                         <div class="form-row">
-                            <div class="form-group">
+                        <div class="form-group">
                                 <input type="text" id="name" name="name" placeholder="Ваше имя" required>
-                            </div>
-                            <div class="form-group">
+                        </div>
+                        <div class="form-group">
                                 <input type="tel" id="phone" name="phone" placeholder="Телефон" required>
-                            </div>
+                        </div>
                         </div>
                         
                         <div class="form-row">
-                            <div class="form-group">
+                        <div class="form-group">
                                 <input type="email" id="email" name="email" placeholder="Email">
-                            </div>
-                            <div class="form-group">
-                                <select id="product" name="product">
+                        </div>
+                        <div class="form-group">
+                            <select id="product" name="product">
                                     <option value="">Выберите продукт</option>
-                                    <option value="fine">Мелкий песок (0,1-0,5 мм)</option>
-                                    <option value="medium">Средний песок (0,5-1,2 мм)</option>
-                                    <option value="coarse">Крупный песок (1,2-2,5 мм)</option>
-                                    <option value="mixed">Разные фракции</option>
-                                </select>
-                            </div>
+                                <option value="fine">Мелкий песок (0,1-0,5 мм)</option>
+                                <option value="medium">Средний песок (0,5-1,2 мм)</option>
+                                <option value="coarse">Крупный песок (1,2-2,5 мм)</option>
+                                <option value="mixed">Разные фракции</option>
+                            </select>
+                        </div>
                         </div>
                         
                         <div class="form-group">
@@ -1378,36 +1393,36 @@
         <div class="container">
             <div class="footer-content">
                 <div class="footer-company">
-                    <div class="footer-logo">
+                <div class="footer-logo">
                         <a href="#" class="footer-logo-link">
                             <svg class="logo-icon" width="50" height="50" viewBox="0 0 40 40" fill="none">
-                                <path d="M20 0L37.3205 10V30L20 40L2.67949 30V10L20 0Z" fill="var(--primary-color)"/>
-                                <path d="M20 5L32.3205 12V26L20 33L7.67949 26V12L20 5Z" fill="white"/>
-                            </svg>
+                            <path d="M20 0L37.3205 10V30L20 40L2.67949 30V10L20 0Z" fill="var(--primary-color)"/>
+                            <path d="M20 5L32.3205 12V26L20 33L7.67949 26V12L20 5Z" fill="white"/>
+                        </svg>
                             <div class="logo-text">
                                 <span class="company-name">ООО "Ювента"</span>
                                 <span class="company-tagline">Качественный кварцевый песок</span>
                             </div>
-                        </a>
+                    </a>
                     </div>
                     <p class="footer-description">
                         Мы специализируемся на поставках высококачественного кварцевого песка различных фракций для промышленности и строительства. Наша продукция соответствует всем стандартам качества.
                     </p>
                     <div class="footer-social">
                         <h4>Мы в соцсетях:</h4>
-                        <div class="social-links">
-                            <a href="https://wa.me/79603616850" class="social-link whatsapp" aria-label="WhatsApp">
+                    <div class="social-links">
+                        <a href="https://wa.me/79603616850" class="social-link whatsapp" aria-label="WhatsApp">
                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.465 3.488"/>
-                                </svg>
+                            </svg>
                                 <span>WhatsApp</span>
-                            </a>
-                            <a href="https://t.me/79603616850" class="social-link telegram" aria-label="Telegram">
+                        </a>
+                        <a href="https://t.me/79603616850" class="social-link telegram" aria-label="Telegram">
                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/>
-                                </svg>
+                            </svg>
                                 <span>Telegram</span>
-                            </a>
+                        </a>
                         </div>
                     </div>
                 </div>
@@ -1446,8 +1461,8 @@
                                 <div class="contact-info">
                                     <span class="contact-label">Телефон:</span>
                                     <a href="tel:+79603616850" class="contact-link">8-960-361-68-50</a>
-                                </div>
-                            </div>
+                    </div>
+                </div>
                             
                             <div class="contact-item">
                                 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -1457,9 +1472,9 @@
                                 <div class="contact-info">
                                     <span class="contact-label">Email:</span>
                                     <a href="mailto:yuventaas@mail.ru" class="contact-link">yuventaas@mail.ru</a>
-                                </div>
-                            </div>
-                            
+            </div>
+                </div>
+                
                             <div class="contact-item">
                                 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                                     <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
